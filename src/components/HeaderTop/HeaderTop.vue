@@ -12,11 +12,13 @@
 
 <script>
 
+
   export default {
     name: "HeaderTop",
     props:{
       title:String
-    }
+    },
+
   }
 </script>
 
